@@ -18,3 +18,6 @@ A POC Flutter App ReBot
 
 **POC**
 
+ <p>
+<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/poc.gif" width="360" height="780">
+</p>
