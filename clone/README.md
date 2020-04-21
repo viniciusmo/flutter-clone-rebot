@@ -1,6 +1,6 @@
 # rebot
 
-rebot app
+Clone App ReBot
 
 ## Getting Started
 
