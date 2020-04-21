@@ -5,13 +5,14 @@ A POC Flutter App ReBot
 
  **1. Login**
  
-<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/original_login.png" width="288" height="780">
-<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/clone_login.png" width="288" height="780">
-
+<p>
+<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/original_login.png" width="360" height="780">
+<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/clone_login.png" width="360" height="780">
+</p>
 
  **2. Home**
  
-<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/original_home.png" width="288" height="780">
+<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/original_home.png" width="360" height="780">
 <img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/clone_home.png" width="360" height="780">
 
 **POC**
