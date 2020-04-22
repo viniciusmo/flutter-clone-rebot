@@ -19,6 +19,5 @@ A POC Flutter App ReBot
 **POC**
 
  <p align="center">
- ![POC video](https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/poc.gif)
-
+<img src="https://raw.githubusercontent.com/viniciusmo/flutter-clone-rebot/master/assets/poc.gif" width="360" height="780">
 </p>
